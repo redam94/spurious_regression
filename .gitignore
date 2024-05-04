@@ -3,4 +3,4 @@
 **/notebooks/
 secrets.tomls
 **/secrets.toml
-env/**
+**/env/

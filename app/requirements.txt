@@ -1,0 +1,5 @@
+statsmodels
+pymc
+streamlit
+pydantic
+st-pages
