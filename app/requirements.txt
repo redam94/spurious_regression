@@ -3,3 +3,6 @@ pymc
 streamlit
 pydantic
 st-pages
+arviz
+pandas
+matplotlib
